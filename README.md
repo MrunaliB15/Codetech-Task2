@@ -12,7 +12,7 @@ Project : AUTOMATION FRAMEWORK WITH TESTNG AND
 
 Objective:
 
-The objective of this project is to develop an automation framework using TestNG and Selenium to automate the testing of the https://www.saucedemo.com/ web application. This framework will help in understanding how to structure and manage automated tests effectively, and ensure that the application's functionalities are tested thoroughly.
+The objective of this project is to develop an automation framework using TestNG and Selenium to automate the testing of the web application. This framework will help in understanding how to structure and manage automated tests effectively, and ensure that the application's functionalities are tested thoroughly.
 
 
 Key Activities: 
